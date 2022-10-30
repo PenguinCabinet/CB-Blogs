@@ -7,6 +7,7 @@
 
 ## 2022
 * [CODE BLUEの学スタに参加した感想と反省(ペンギン内閣)](#)
+* [CODE BLUE 参加体験記(よしみ)](https://yoshistl.hatenablog.com/entry/2022/10/29/235734)
 
 ## クレジット
 このリポジトリは[SecHack365 Fans](https://github.com/SecHack365-Fans/SecHack365-Fans.github.io )に影響を受けています。
