@@ -11,7 +11,7 @@
 * [codeblue 2022 の学生スタッフの感想(kaito)](https://blog.uta8a.net/diary/2022-10-30-codeblue-staff/)
 * [CODE BLUE 2022に学生スタッフとして参加しました(りゅうせい)](https://xryuseix.hatenablog.com/entry/2022/11/02/150155)
 * [CODE BLUE 2022 参加記(4n12i)](https://4n12i.netlify.app/posts/22-11-01-codeblue/)
-* [CODE BLUE2022 学生スタッフに参加して](https://hackteck.hatenablog.com/entry/2022/11/18/214605)
+* [CODE BLUE2022 学生スタッフに参加して(0yu)](https://hackteck.hatenablog.com/entry/2022/11/18/214605)
 
 ## クレジット
 このリポジトリは[SecHack365 Fans](https://github.com/SecHack365-Fans/SecHack365-Fans.github.io )に影響を受けています。
