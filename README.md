@@ -12,5 +12,5 @@
 * [CODE BLUE 2022 参加記(4n12i)](https://4n12i.netlify.app/posts/22-11-01-codeblue/)
 * [CODE BLUE2022 学生スタッフに参加して(0yu)](https://hackteck.hatenablog.com/entry/2022/11/18/214605)
 
-## クレジット
+## 参考
 このリポジトリは[SecHack365 Fans](https://github.com/SecHack365-Fans/SecHack365-Fans.github.io )に影響を受けています。
