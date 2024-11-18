@@ -5,6 +5,12 @@
 参加記集に載せてもいいよという方はPRを送ってください。   
 記事一覧のフォーマットは「\[記事名(ハンドルネーム)\]\(https://example.com )」です。
 
+## 2024
+*  [CODE BLUE 2024 に学生スタッフとして参加しました(わたすけ)](https://watasuke.net/blog/article/codeblue-2024-as-sv/)
+
+## 2023
+＊ [CODE BLUE 2023 学生スタッフ参加記(kondy)](https://note.com/sunflo_twt/n/n6b34178b8be5)
+
 ## 2022
 * [CODE BLUE 参加体験記(よしみ)](https://yoshistl.hatenablog.com/entry/2022/10/29/235734)
 * [codeblue 2022 の学生スタッフの感想(kaito)](https://blog.uta8a.net/diary/2022-10-30-codeblue-staff/)
