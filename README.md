@@ -6,7 +6,6 @@
 記事一覧のフォーマットは「\[記事名(ハンドルネーム)\]\(https://example.com )」です。
 
 ## 2024
-* [CODE BLUE 2024 に学生スタッフとして参加しました(わたすけ)](https://watasuke.net/blog/article/codeblue-2024-as-sv/)
 
 ## 2023
 * [CODE BLUE 2023 学生スタッフ参加記(kondy)](https://note.com/sunflo_twt/n/n6b34178b8be5)
