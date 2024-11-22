@@ -6,6 +6,7 @@
 記事一覧のフォーマットは「\[記事名(ハンドルネーム)\]\(https://example.com )」です。
 
 ## 2024
+*[CODE BLUE2024体験記(chama)](https://potyama.hatenablog.com/entry/2024/11/22/002732)
 * [CODE BLUE 2024 学生スタッフ参加記(ikbasenet)](https://ikbase.net/blog/2024/11/21/codeblue24/)
 * [CODE BLUE 2024 学生スタッフ体験記(kkb3)](https://kkb3.hatenablog.com/entry/2024/11/21/193911)
 * [CODEBLUE2024 学生スタッフ参加記録(suisan)](https://zenn.dev/suisan/articles/8c87731ad7a938)
