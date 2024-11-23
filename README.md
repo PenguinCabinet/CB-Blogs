@@ -16,9 +16,6 @@
 
 ※2024年度については、投稿者に事前に確認を取ってから掲載しています。
 
-## 2023
-* [CODE BLUE 2023 学生スタッフ参加記(kondy)](https://note.com/sunflo_twt/n/n6b34178b8be5)
-
 ## 2022
 * [CODE BLUE 参加体験記(よしみ)](https://yoshistl.hatenablog.com/entry/2022/10/29/235734)
 * [codeblue 2022 の学生スタッフの感想(kaito)](https://blog.uta8a.net/diary/2022-10-30-codeblue-staff/)
