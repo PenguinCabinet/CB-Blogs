@@ -14,6 +14,8 @@
 * [CODE BLUE 2024に参加した話(GenkaiChan)](https://qiita.com/GenkaiChan/items/22fa35288cd9f24e05e3)
 * [CODE BLUE 2024 に学生スタッフとして参加しました(わたすけ)](https://watasuke.net/blog/article/codeblue-2024-as-sv/)
 
+※2024年度については、投稿者に事前に確認を取ってから掲載しています。
+
 ## 2023
 * [CODE BLUE 2023 学生スタッフ参加記(kondy)](https://note.com/sunflo_twt/n/n6b34178b8be5)
 
